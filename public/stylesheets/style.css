@@ -1,0 +1,45 @@
+.products-design
+{
+  height:300px;
+}
+
+.mythumbnail
+{
+  height:28em;
+}
+.title-section
+{
+  height:5em;
+  overflow: hidden;
+}
+.info-section
+{
+  height:12em;
+}
+.myimgContainer
+{
+  height: 12em;
+  overflow: hidden;
+}
+
+.myanchor:hover
+{
+  text-decoration: none;
+}
+
+.product-hover:hover
+{
+  border:1px solid;
+}
+
+.index-style {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: block;
+    margin: auto;
+    width: 75%;
+    height: 50%;
+}
